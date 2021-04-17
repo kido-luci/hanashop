@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-logging-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../AccessGoogle-lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../AccessGoogle-lib/fluent-hc-4.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../AccessGoogle-lib/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../AccessGoogle-lib/httpclient-4.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../AccessGoogle-lib/httpcore-4.4.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
